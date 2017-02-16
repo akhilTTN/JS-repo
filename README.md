@@ -1,1 +1,1 @@
-this repo contains files regarding the JS assignment
+open the index.html file. and click on the questions you want to check
